@@ -5,6 +5,6 @@ package com;
  */
 public class Cs {
     public static void main(String[] args) {
-        System.out.println("cs002009");
+        System.out.println("cs00200ddd9");
     }
 }
